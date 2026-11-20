@@ -1,0 +1,4 @@
+interface:
+  display_name: "徐大头手绘短视频制作"
+  short_description: "用自己的卡通人物和音色制作中文手绘口播、逐句分镜和封面"
+  default_prompt: "使用 $xudatou-handdrawn-video，把我提供的生活经历整理成一篇可以直接念的口播稿，并标出第一处适合呈现的画面。"
